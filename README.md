@@ -22,4 +22,9 @@ Environment variable Setup
 	1. Open command prompt
 	2. cd {Projectpath} 
 	3. mvn test  
+
+
+
+ NOTE : Post lanuching browser, in case if accept cookies button doent appear, it may throws an exception error.
+ Solution : To avoid this - open step definition class \src\test\java\stepDefinitions\SearchPageStepDefinition.java and comment the line number 31.
  
