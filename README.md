@@ -22,7 +22,7 @@ Environment variable Setup
 	1. Open command prompt
 	2. cd {Projectpath} 
  	3. mvn install
-	3. mvn test  
+	4. mvn test  
 
 
 
