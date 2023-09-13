@@ -16,11 +16,12 @@ Environment variable Setup
  How to run the project?
 	 
 	IDE
-	For compilation and unit test errors, right click the project That was imported as a maven project and select Run As > Maven Test  > Run.
+	For compilation and unit test errors, right click the project That was imported as a maven project and select Run As > Maven Install > Maven Test  > Run.
  
 	CMD
 	1. Open command prompt
 	2. cd {Projectpath} 
+ 	3. mvn install
 	3. mvn test  
 
 
